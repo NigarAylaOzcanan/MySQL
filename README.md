@@ -5,8 +5,6 @@
 This README file contains various SQL queries for a sample `employees` schema. The queries can be adapted to your
 database schema and needs.
 
-[MySQL Employee Structure](https://dev.mysql.com/doc/employee/en/sakila-structure.html)
-
 ## Employees Table
 
 | Column Name | Description     |
@@ -52,7 +50,8 @@ database schema and needs.
 | from_date   | Start date of salary |
 | to_date     | End date of salary   |
 
-![employees-schema.png](src/main/resources/img/employees-schema.png)
+<img width="400" alt="employees-schema" src="https://github.com/user-attachments/assets/bfb70678-ea4b-4897-978d-0791ac4ec04f">
+
 
 ## 1. List all employees in department D001.
 
