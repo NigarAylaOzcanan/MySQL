@@ -2,7 +2,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 # MySQL Queries
 
-This README file contains various SQL queries for a sample `employees` schema. The queries can be adapted to your
+This repository contains various SQL queries for a sample `employees` schema. The queries can be adapted to your
 database schema and needs.
 
 ## Employees Table
